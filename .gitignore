@@ -3,6 +3,6 @@ test.ipynb
 *.jsonl
 .venv
 .DS_Store
-output/
+outputs/
 *.wav
 *.mp3
