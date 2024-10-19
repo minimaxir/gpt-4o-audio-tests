@@ -1,0 +1,8 @@
+.env
+test.ipynb
+*.jsonl
+.venv
+.DS_Store
+output/
+*.wav
+*.mp3
