@@ -4,5 +4,6 @@ test.ipynb
 .venv
 .DS_Store
 outputs/
+inputs/
 *.wav
 *.mp3
