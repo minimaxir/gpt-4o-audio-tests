@@ -1,8 +1,8 @@
 # gpt-4o-audio-tests
 
-Jupyter Notebooks and an R Notebook for encoding Pokémon embeddings and creating data visualizations. This repo is a complement for [Generating Distinct AI Vocal Performances By Prompt Engineering GPT-4o]().
+Jupyter Notebooks and an R Notebook for testing GPT-4o audio generations. This repo is a complement for [Generating Distinct AI Vocal Performances By Prompt Engineering GPT-4o](https://minimaxir.com/2024/10/speech-prompt-engineering/).
 
-The Notebook assumes you have your OpenAI API Key stored in a `.env` file. The Notebook also assumes the `openai` client is installed in addition to `rich`.
+The Notebook assumes you have your OpenAI API Key stored in a `.env` file. The Notebook also assumes the `openai` client is installed in addition to `rich` and ffmpeg.
 
 ## Maintainer/Creator
 
